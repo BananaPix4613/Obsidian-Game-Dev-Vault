@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "e835517a8dffd652",
+            "id": "4118dad2d8f1a3c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Survival Roguelike GDD.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Survival Roguelike GDD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Survival Roguelike GDD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Survival Roguelike GDD.md"
               }
             }
           }
@@ -161,15 +161,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e835517a8dffd652",
+  "active": "4118dad2d8f1a3c1",
   "lastOpenFiles": [
-    "Roulette Doom.md",
     "Survival Roguelike.md",
-    "Liminal Space Survival.md",
+    "Survival Roguelike GDD.md",
     "Index.md",
+    "Untitled Kanban.md",
     "Game Jam Themes.md",
     "Flesh Factory.md",
     "Bored Abyss Roguelike.md",
+    "Roulette Doom.md",
+    "Liminal Space Survival.md",
     "Welcome.md"
   ]
 }

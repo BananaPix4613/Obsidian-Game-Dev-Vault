@@ -1,2 +1,5 @@
+### GDD
+[[Survival Roguelike GDD]]
+
 ### Game Loop
-Manage hunger, sanity, and thirst by traversing through a grid of procedurally generating forest rooms to collect firewood, hunt prey, and fight off predators. By nightfall, either return to an existing fire or use firewood to make a new one. If it strikes midnight before you are in the presence of a fire, you die to the darkness. If you do successfully stay within the presence of a fire, the forest around you shifts and new rooms are generated around your current room. You can then pick from a couple of items that
+Manage hunger, sanity, and thirst by traversing through a grid of procedurally generating forest rooms to collect firewood, hunt prey, and fight off predators. By nightfall, either return to an existing fire or use firewood to make a new one. If it strikes midnight before you are in the presence of a fire, you die to the darkness. If you do successfully stay within the presence of a fire, the forest around you shifts and new rooms are generated around your current room. You can then pick from a couple of items that improve your stats or give you new and unique abilities. Repeat the loop each day while prey becomes increasingly scarce and predators become more numerous and unnatural. Either succumb to your inevitable death or investigate the strange structures of the woods for potential endings.
