@@ -27,13 +27,15 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] Create custom nbt data for enchantment leveling
+- [ ] create new EnchantmentHelper class for updating enchants on ItemStacks
+- [ ] Create new ItemStack class with new enchant method to handle attunement stats
+- [ ] Create new ItemEnchants class for tooltip application when enchanting
 
 
 ## Finished
 
 **Complete**
-- [x] Create custom Enchantment class extension
+- [x] Create new EnchantInstance class to hold the attunement stats
 
 
 ## Ideas
